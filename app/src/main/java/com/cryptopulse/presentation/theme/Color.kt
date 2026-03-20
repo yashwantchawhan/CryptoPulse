@@ -1,4 +1,4 @@
-package com.cryptopulse.ui.theme
+package com.cryptopulse.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
