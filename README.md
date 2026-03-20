@@ -14,9 +14,9 @@ This project was built to understand how real-world crypto platforms (like OKX, 
 
 ## 📸 Screenshots
 
-<img width="400" height="300" alt="Screenshot_20260320_123007" src="https://github.com/user-attachments/assets/6f37c82c-4ef9-4541-89fe-5ded2d837eac" />
-<img width="400" height="300" alt="Screenshot_20260320_123011" src="https://github.com/user-attachments/assets/9bbcb988-d248-4b46-8ec1-4f0809ef7d91" />
-<img width="400" height="300" alt="Screenshot_20260320_123016" src="https://github.com/user-attachments/assets/335ae9e6-40a2-4727-8d5f-74714a3963d6" />
+<img width="150" height="400" alt="Screenshot_20260320_123007" src="https://github.com/user-attachments/assets/6f37c82c-4ef9-4541-89fe-5ded2d837eac" />
+<img width="150" height="400" alt="Screenshot_20260320_123011" src="https://github.com/user-attachments/assets/9bbcb988-d248-4b46-8ec1-4f0809ef7d91" />
+<img width="150" height="400" alt="Screenshot_20260320_123016" src="https://github.com/user-attachments/assets/335ae9e6-40a2-4727-8d5f-74714a3963d6" />
 
 
 ## 🧠 Features
