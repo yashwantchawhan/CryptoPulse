@@ -14,10 +14,10 @@ This project was built to understand how real-world crypto platforms (like OKX, 
 
 ## 📸 Screenshots
 
-| Market | Portfolio | Wallet |
-|:------:|:---------:|:------:|
-| ![Market](<img width="300" height="300" alt="Screenshot_20260320_123007" src="https://github.com/user-attachments/assets/c380937b-64c7-4cc0-a371-765d4f867a69" />
-           ) | ![Portfolio](<img width="300" height="300" alt="Screenshot_20260320_123011" src="https://github.com/user-attachments/assets/c24121c3-b3ab-4721-9faa-7385381dfcc4" />) | ![Wallet](<img width="300" height="300" alt="Screenshot_20260320_123016" src="https://github.com/user-attachments/assets/3ad330ee-7572-425a-ae49-3d2ce05a05e6" />) |
+<img width="400" height="300" alt="Screenshot_20260320_123007" src="https://github.com/user-attachments/assets/6f37c82c-4ef9-4541-89fe-5ded2d837eac" />
+<img width="400" height="300" alt="Screenshot_20260320_123011" src="https://github.com/user-attachments/assets/9bbcb988-d248-4b46-8ec1-4f0809ef7d91" />
+<img width="400" height="300" alt="Screenshot_20260320_123016" src="https://github.com/user-attachments/assets/335ae9e6-40a2-4727-8d5f-74714a3963d6" />
+
 
 ## 🧠 Features
 
