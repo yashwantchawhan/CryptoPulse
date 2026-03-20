@@ -12,6 +12,12 @@ CryptoPulse is a lightweight crypto tracking application that allows users to:
 
 This project was built to understand how real-world crypto platforms (like OKX, Binance) handle market data, portfolio management, and blockchain interactions.
 
+## 📸 Screenshots
+
+| Market | Portfolio | Wallet |
+|:------:|:---------:|:------:|
+| ![Market](screenshots/market.png) | ![Portfolio](screenshots/portfolio.png) | ![Wallet](screenshots/wallet.png) |
+
 ## 🧠 Features
 
 ### 📊 Market
